@@ -1,0 +1,37 @@
+{
+    "params":
+    {
+      "local_server":"True",
+      "local_uri": "mysql://root:@localhost/botdamn",
+      "prod_uri":"mysql://root:@localhost/botdamn",
+      
+      "company_name": "BotDamn",
+      "company_phone": "Your Phone Number",
+      "company_email": "BotDamn@gmail.com",
+      "company_country": "India",
+      "company_locality": "Gurugram",
+      "company_street": "Sec-1,IMT Manesar",
+
+      "fb_link":"www.facebook.com/",
+      "twt_link":"www.facebook.com/",
+      "lnk_link":"www.facebook.com/",
+      "insta_link":"www.facebook.com/",
+      
+
+
+      "admin_name":"Apoorva",
+      "tag_line": "Tagline",
+      "title": "Title",
+
+      "gmail-user":"vermaapoorva0510@gmail.com",
+      "gmail-password":"Apoorva@124@#",
+
+      "about_heading": "Company heading text",
+      "about_text": "Company about text",
+      
+      "admin_user":"apoo",
+      "admin_password": "apoo"
+      
+    }
+  }
+  
